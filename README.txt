@@ -1,5 +1,5 @@
 
-CREATED BY: Tal Tabak ,  ID : 203664487 .
+CREATED BY: Tal Tabak.
 
 Description: 
   String Pattern Matching Algorithm,
